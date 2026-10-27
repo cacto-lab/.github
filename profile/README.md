@@ -20,8 +20,8 @@
   <a href="https://www.ufrn.br">
     <img src="https://img.shields.io/badge/UFRN-000000.svg?style=for-the-badge&labelColor=000">
   </a>
-  <a href="#-o-que-exploramos">
-    <img src="https://img.shields.io/badge/SITE%20OFICIAL-QuantumMIND-1b7a68.svg?style=for-the-badge&labelColor=000">
+  <a href="https://cacto.dimap.ufrn.br/">
+    <img src="https://img.shields.io/badge/SITE%20OFICIAL-CACTO-1b7a68.svg?style=for-the-badge&labelColor=000">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Nosso site oficial é o **QuantumMIND** (_Quantum & Mathematical Innovation for 
 ## 🚀&nbsp; Projetos em destaque
 
 - **Biblioteca de QRC baseada em QW** - núcleo em C++ com interface em Python
-- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica [![Acesse o site](https://img.shields.io/badge/🌐-181717)](https://quantum-lab-ufrn.vercel.app/)
+- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica [![Acesse o site](https://img.shields.io/badge/🌐-181717)](https://quantumlab.dimap.ufrn.br/)
 - **Predição de TEA em bebês com QRC** - aprendizado de máquina apoiado por computação de reservatório quântico
 - **Biópsia líquida com sistemas fuzzy** - modelagem da incerteza em biomarcadores tumorais
 - **Livro de sistemas fuzzy** - funções de pertinência e fundamentos teóricos
